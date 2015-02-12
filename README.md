@@ -10,6 +10,14 @@ A Niflheim theme for [Visual Studio 2013](http://www.visualstudio.com/).
 
 Double click on `Niflheim.vstheme`
 
+It is recommended to use this theme with [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/Download).
+To change the font in Visaul Studio 2013:
+  Tools > Options > Environment > Fonts and Colors > Display Items > Plain Text
+
+In the dropdown, you can now select **DejaVu Sans Mono**.
+
+Note that if Visual Studio was alredy opened when you installed the font, you need to restart Visual Studio.
+
 
 ## License
 
